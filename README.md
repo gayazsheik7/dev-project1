@@ -1,2 +1,2 @@
 # dev-project1
-hi
+echo "HI"
